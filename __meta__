@@ -1,0 +1,10 @@
+{
+    "name": "Terminus",
+    "version": "1.0.0",
+    "author": "Sanjeev Krishna",
+    "uuid": "6c1d5b71-c0f1-44bf-96a0-d9d46ff173db",
+    "tags": [
+        "Terminal",
+        "Command Line"
+    ]
+}
