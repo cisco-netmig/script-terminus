@@ -225,7 +225,6 @@ class SpawnTerminal(Terminal):
             prompt = prompt_bytes.decode("utf-8")
             if callback:
                 callback(prompt)
-            self._update_tab_title(prompt)
 
         def on_error(err):
             if error_callback:
