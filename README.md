@@ -28,3 +28,6 @@ Useful for real-time diagnostics, live CLI monitoring, or interacting with autom
 
 ## Tags  
 `#Terminal` `#SSH` `#Netmig` `#Automation` `#NetworkMigration` `#Diagnostics` `#CLI` `#Python` `#PyQt5` `#termqt` `#InfrastructureTools`
+
+## Screenshots
+![Project Logo](./SCREENSHOT.png)
